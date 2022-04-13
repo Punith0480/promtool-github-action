@@ -1,4 +1,4 @@
-name: Lintings
+name: Linting
 on:
   push:
     branches:
